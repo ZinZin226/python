@@ -1,0 +1,10 @@
+**Operators**
+
+1. **Arithmetic Operators                 # + _ * /
+2. Relational Operators                   # > < 
+3. Logical Operators                      #and , or , not
+4. Bitiwise Operators                     # gates
+5. Assignment Operators                   # += -=
+6. Special Operators                      
+i. Identity Operators                     # id , is ,is not
+ii. Membership Operators                  # in , not in
