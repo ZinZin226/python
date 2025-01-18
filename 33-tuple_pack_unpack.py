@@ -19,7 +19,7 @@ print(a, b, c, d)
 list_ = [i for i in range(6)]
 print(list_)
 
-tuple1 = (i for i in range(6))
+tuple1 = (i for i in range(6)) # Just only tuple shows address
 print(tuple1)
 
 for i in tuple1:
