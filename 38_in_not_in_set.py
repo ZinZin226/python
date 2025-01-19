@@ -21,5 +21,6 @@ print(set1)
 
 # program
 name=input('Enter string : ')
+input1=set(name)
 string=set('a, e, i, o, u')
-print(string.intersection(name))
+print(string.intersection(input1))
